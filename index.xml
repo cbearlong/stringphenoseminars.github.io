@@ -1,0 +1,67 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Summer Series on String Phenomenology</title>
+    <link>https://stringphenosequel.github.io/</link>
+    <description>Recent content on Summer Series on String Phenomenology</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-US</language>
+    
+	<atom:link href="https://stringphenosequel.github.io/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>About</title>
+      <link>https://stringphenosequel.github.io/about/</link>
+      <pubDate>Sat, 22 Aug 2015 00:00:00 +0000</pubDate>
+      
+      <guid>https://stringphenosequel.github.io/about/</guid>
+      <description>This conference series is designed to highlight the work of theorists early in their careers, in the broad topic of String Phenomenology. The talks are held virtually on Tuesdays, from 11 AM - 12 PM EST, in order to allow for maximum participation across the globe. All presentations will be by junior researchers who are not yet in permanent positions.
+Please register to receive links for viewing the presentations.
+Organizers:</description>
+    </item>
+    
+    <item>
+      <title>Program</title>
+      <link>https://stringphenosequel.github.io/schedule/</link>
+      <pubDate>Sat, 22 Aug 2015 00:00:00 +0000</pubDate>
+      
+      <guid>https://stringphenosequel.github.io/schedule/</guid>
+      <description>The talk series will be held virtually from 11:00AM-12:00PM EDT on Tuesdays, beginning June 16. Video link TBA.
+Schedule The schedule of talks is as follows:
+Tuesday, June 16, 2020  11:00, TBA, Affiliation, Title. 11:30, TBA, Affiliation, Title.  Tuesday, June 23, 2020  11:00, TBA, Affiliation, Title. 11:30, TBA, Affiliation, Title.  </description>
+    </item>
+    
+    <item>
+      <title>Register</title>
+      <link>https://stringphenosequel.github.io/registration/</link>
+      <pubDate>Sat, 22 Aug 2015 00:00:00 +0000</pubDate>
+      
+      <guid>https://stringphenosequel.github.io/registration/</guid>
+      <description>To be added to the mailing list please fill out the form here.
+If you are interested in giving a talk please fill out the form here.</description>
+    </item>
+    
+    <item>
+      <title>Home</title>
+      <link>https://stringphenosequel.github.io/home/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://stringphenosequel.github.io/home/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>License</title>
+      <link>https://stringphenosequel.github.io/license/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://stringphenosequel.github.io/license/</guid>
+      <description>You can use this page to put a license on the contents of your blog, like so:
+ The MIT License (MIT)
+Copyright (c) 2015 Nishanth Shanmughamnishanth.gerrard@gmail.com
+Permission is hereby granted, free of charge, to any person obtaining a copy of this software and associated documentation files (the &amp;ldquo;Software&amp;rdquo;), to deal in the Software without restriction, including without limitation the rights to use, copy, modify, merge, publish, distribute, sublicense, and/or sell copies of the Software, and to permit persons to whom the Software is furnished to do so, subject to the following conditions:</description>
+    </item>
+    
+  </channel>
+</rss>
