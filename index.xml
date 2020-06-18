@@ -11,16 +11,6 @@
     
     
     <item>
-      <title>About</title>
-      <link>https://stringphenoseminars.github.io/about/</link>
-      <pubDate>Tue, 22 Sep 2015 00:00:00 +0000</pubDate>
-      
-      <guid>https://stringphenoseminars.github.io/about/</guid>
-      <description>This seminar series is designed to highlight the work of theorists early in their careers, in the broad topic of String Phenomenology. The talks are held virtually on Tuesdays, from 11 AM - 12 PM EST, in order to allow for maximum participation across the globe. All presentations will be by junior researchers who are not yet in permanent positions.
-Talks will be given via Zoom. Please register to the mailing list to receive the links.</description>
-    </item>
-    
-    <item>
       <title>Schedule</title>
       <link>https://stringphenoseminars.github.io/schedule/</link>
       <pubDate>Tue, 21 Jul 2015 00:00:00 +0000</pubDate>
@@ -28,27 +18,14 @@ Talks will be given via Zoom. Please register to the mailing list to receive the
       <guid>https://stringphenoseminars.github.io/schedule/</guid>
       <description>The talk series will be held via Zoom from 11:00AM-12:00PM EDT on Tuesdays, beginning June 16. Please register to the mailing list to receive the links.
 Schedule The schedule of upcoming talks is as follows:
-Tuesday, June 23, 2020   11:00, Niccolò Cribiori, TU Wien
-  11:30, Paul-Konstantin Oehlmann, Uppsala
-  Tuesday, June30, 2020   11:00, Naomi Gendler, Cornell
-  11:30, Markus Dierigl, Penn
-  </description>
-    </item>
-    
-    <item>
-      <title>Register</title>
-      <link>https://stringphenoseminars.github.io/registration/</link>
-      <pubDate>Wed, 20 May 2015 00:00:00 +0000</pubDate>
-      
-      <guid>https://stringphenoseminars.github.io/registration/</guid>
-      <description>To be added to the mailing list please register.
-If you are interested in giving a talk please fill out the form here.</description>
+Tuesday, June 23, 2020  11:00, Niccolò Cribiori, TU Wien  Title: The web of swampland conjectures and the TCC bound.
+Abstract: The swampland program provides criteria to identify low energy effective theories consistent with quantum gravity.</description>
     </item>
     
     <item>
       <title>Past Talks</title>
       <link>https://stringphenoseminars.github.io/past-talks/</link>
-      <pubDate>Wed, 21 Jan 2015 00:00:00 +0000</pubDate>
+      <pubDate>Thu, 21 May 2015 00:00:00 +0000</pubDate>
       
       <guid>https://stringphenoseminars.github.io/past-talks/</guid>
       <description>All talk videos can be found here. See below for individual talk information, slides, and video links.
@@ -57,12 +34,23 @@ Abstract: I will discuss recent progress in constructing global 4d F-theory mode
     </item>
     
     <item>
+      <title>Register</title>
+      <link>https://stringphenoseminars.github.io/registration/</link>
+      <pubDate>Tue, 20 Jan 2015 00:00:00 +0000</pubDate>
+      
+      <guid>https://stringphenoseminars.github.io/registration/</guid>
+      <description>To be added to the mailing list please register.
+If you are interested in giving a talk please fill out the form here.</description>
+    </item>
+    
+    <item>
       <title>Home</title>
       <link>https://stringphenoseminars.github.io/home/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
       <guid>https://stringphenoseminars.github.io/home/</guid>
-      <description></description>
+      <description>This seminar series is designed to highlight the work of theorists early in their careers, in the broad topic of String Phenomenology. The talks are held virtually on Tuesdays, from 11 AM - 12 PM EST, in order to allow for maximum participation across the globe. All presentations will be by junior researchers who are not yet in permanent positions.
+Talks will be given via Zoom. Please register to the mailing list to receive the links.</description>
     </item>
     
     <item>
