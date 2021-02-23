@@ -28,8 +28,8 @@ Abstract: The mild form of the Weak Gravity Conjecture states that quantum or hi
       
       <guid>https://stringphenoseminars.github.io/past-talks/</guid>
       <description>All talk videos can be found here. See below for individual talk information, slides, and video links.
-Tuesday, February 16, 2021  11:00, Yidi Qi, Stony Brook  Title: Numerical Calabi-Yau metrics from holomorphic networks
-Abstract: Calabi-Yau metrics have many important applications in string compactification. However, it is generally believed that no closed-form expression exists. In this talk, I will introduce machine learning inspired methods for computing numerical Calabi-Yau metrics and the implementation using Tensorflow/Keras.</description>
+Tuesday, February 23, 2021  11:00, Alex Cole, Amsterdam  Title: A New Spin on the Weak Gravity Conjecture
+Abstract: The mild form of the Weak Gravity Conjecture states that quantum or higher-derivative corrections should decrease the mass of large extremal charged black holes at fixed charge. This allows extremal black holes to decay, unless protected by a symmetry (such as supersymmetry).</description>
     </item>
     
     <item>
